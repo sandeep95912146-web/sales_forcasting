@@ -1,6 +1,11 @@
 fastapi
 uvicorn
 pandas
+numpy
 requests
 streamlit
 matplotlib
+scikit-learn
+statsmodels
+torch
+shap
